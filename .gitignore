@@ -1,0 +1,9 @@
+# Ignorar dependencias y módulos compilados
+node_modules/
+
+# Ignorar los paquetes de distribución
+release/
+
+# Entorno virtual y cachés
+.venv/
+__pycache__/
