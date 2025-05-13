@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+
+# Dependencias NPM y artefactos de escritorio
+node_modules/
+release/
+
+# Entornos y secretos
+.env
+service-account.json
